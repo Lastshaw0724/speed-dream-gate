@@ -3,11 +3,11 @@ import { Card } from '@/components/ui/card';
 
 const PhotoGallery = () => {
   const movieImages = [
-    "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?q=80&w=2069",
-    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070",
-    "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=2070",
-    "https://images.unsplash.com/photo-1469285994282-454ceb49e63c?q=80&w=2071",
-    "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=2066"
+    "/lovable-uploads/379ebf63-722a-4d04-a443-e505e3694559.png",
+    "/lovable-uploads/23916b71-1693-4ba3-88c6-83bef09a3981.png",
+    "/lovable-uploads/4da80cda-f226-4518-aba4-57dead7478e7.png",
+    "/lovable-uploads/6429fa8b-0897-4625-b8b8-673e7890af4a.png",
+    "/lovable-uploads/71b60fe3-5258-44a3-acfd-1d363631d96a.png"
   ];
 
   return (
