@@ -45,7 +45,7 @@ const AuthenticationCard = ({ onAuthenticate }: AuthenticationCardProps) => {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-900 via-red-900 to-black flex items-center justify-center p-4">
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?q=80&w=2069')] bg-cover bg-center opacity-20"></div>
+      <div className="absolute inset-0 bg-[url('/lovable-uploads/48c06c6a-c627-4012-8b8d-faa759d16715.png')] bg-cover bg-center opacity-20"></div>
       
       <Card className="w-full max-w-md bg-black/80 border-red-500/50 backdrop-blur-md relative z-10">
         <CardHeader className="text-center space-y-4">

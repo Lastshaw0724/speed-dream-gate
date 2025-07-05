@@ -5,7 +5,7 @@ import { Star, Flame, Heart, Zap } from 'lucide-react';
 const HeroSection = () => {
   return (
     <section className="relative py-20 px-4 text-center">
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?q=80&w=2069')] bg-cover bg-center opacity-30"></div>
+      <div className="absolute inset-0 bg-[url('/lovable-uploads/48c06c6a-c627-4012-8b8d-faa759d16715.png')] bg-cover bg-center opacity-30"></div>
       <div className="relative z-10 container mx-auto">
         <div className="mb-8">
           <h2 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-red-400 via-orange-400 to-yellow-400 bg-clip-text text-transparent animate-fade-in">
